@@ -19,7 +19,7 @@ while True:
     	break
     
     try:
-    	num = int(num)
+    	num = float(num)
     	if smallest is None:
     		smallest = num
     	if largest is None:
