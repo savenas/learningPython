@@ -6,7 +6,7 @@ import os
 os.system('cls' if os.name == 'nt' else 'clear')
 
 
-print('This is smallest and largest number finder application based on snake oil AI')
+print('It is an application to find the smallest and the most significant number based on snake oil AI.')
 print('Enter Done if you want to finish the application')
 
 largest = None
